@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Ryan J. Dawson</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <h1>Ryan J. Dawson</h1>
+  <img src="https://i.imgur.com/KSKCi7N.jpg" />
+  <div id="introduction">
+    <h2>About Ryan</h2>
+    <p>Ryan is an amateur web developer and writer based in Toronto, Canada. He studied Geography and geoinformatics at York University from 2016 to 2020 before deciding to become a self-taught full-stack developer. He is currently learning HTML and Java and works as a forklift operator. <br><br>In his spare time Ryan enjoys urban hiking and is learning archery.</p>
+    <h3>Certifications</h3>
+    <ul>
+      <li>Ontario Class G Driver's Licence</li>
+      <li>Class I-VII Forklift Operator Certification</li>
+      <li>MEWP Certification</li>
+      <li>TDG Certified</li>
+      <li>Smart Serve</li>
+      <li>Standard First Aid CPR-C & AED</li>
+    </ul>
+
+  </div>
+</body>
